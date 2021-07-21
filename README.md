@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there,  I'm Dalmo! 👀 
 
-<!--
-**Dalmocabral/dalmocabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=dalmocabral&show_icons=true&theme=radical" />
 
-Here are some ideas to get you started:
+<img align='left'  width='43%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmocabral&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align='left' alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img align='left' alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img align='left' alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+
+
+
